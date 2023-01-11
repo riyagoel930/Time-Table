@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>TIME TABLE</h1>
+	<table border="5" cellspacing="0" align="center">
+		<!--<caption>Timetable</caption>-->
+		<tr>
+			<td align="center" height="50"
+				width="100"><br>
+				<b>DAY/TIME</b></br>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>9:10-10:00</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>10:00-10:50</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>10:50-11:40</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>11:40-12:30</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>12:30-1:30</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>1:30-2:20</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>2:20-3:10</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>3:10-4:00</b>
+			</td>
+            <td align="center" height="50"
+				width="100">
+				<b>4:00-4:50</b>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>MON</b></td>
+			<td align="center" height="50">PSUC LAB<br><abbr title="DR.VIPIN KUMAR">VIP</abbr><br> LAB-1</td>
+			<td align="center" height="50">PSUC LAB<br> <abbr title="DR.VIPIN KUMAR">VIP</abbr> <br>MCA LAB-1</td>
+			<td align="center" height="50">VAD<br><abbr title="MS.DIVYA SINGHAL">DIV</abbr></td>
+            <td align="center" height="50">VAD<br><abbr title="MS.DIVYA SINGHAL">DIV</abbr></td>
+			<td rowspan="6" align="center" height="50">
+				<h2>L<br>U<br>N<br>C<br>H</h2>
+			</td>
+            <td align="center" height="50">COA<br><abbr title="DR.AMIT KR.GOYAL">AGO</abbr></td>
+            <td align="center" height="50">PM&COM<br><abbr title="DR.SONIA GAURI(SG)">SG-HS</abbr></td>
+            <td align="center" height="50">DM<br><abbr title="DR.NEELAM CHANTOLA">NC-AS</abbr></td>
+            <td align="center" height="50"><b>DM<br><abbr title="DR.NEELAM CHANTOLA">NC-AS</abbr><br>REMEDIAL</b></td>
+			</tr>
+
+		<tr>
+			<td align="center" height="50">
+			<b>TUE</b>
+			</td>
+            <td align="center" height="50">PSUC LAB<br><abbr title="DR.VIPIN KUMAR">VIP</abbr> <br>MCA LAB-1</td>
+			<td align="center" height="50">PSUC LAB<br> <abbr title="DR.VIPIN KUMAR">VIP</abbr> <br>MCA LAB-1</td>
+			<td align="center" height="50">FCET<br><abbr title="MS.SHWETA SINGH">SHW</abbr></td>
+			<td align="center" height="50">PSUC<br><abbr title="DR.VIPIN KUMAR">VIP</abbr> </td>
+            
+            <td align="center" height="50">PSUC<br><abbr title="DR.VIPIN KUMAR">VIP</abbr> </td>
+			<td align="center" height="50">DM<br><abbr title="DR.NEELAM CHANTOLA">NC-AS</abbr></td>
+            <td align="center" height="50">SOFT SKILL<br><abbr title="MR.HIMANSHU SAXENA/MS.ARUNITA ">HS-HS/AR-HS</abbr></td>
+            <td align="center" height="50">SOFT SKILL<br><abbr title="MR.HIMANSHU SAXENA/MS.ARUNITA ">HS-HS/AR-HS</abbr></td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>WED</b>
+                <td align="center" height="50">FCET<br><abbr title="MS.SHWETA SINGH">SHW</abbr></td>
+                <td align="center" height="50">PSUC<br><abbr title="DR.VIPIN KUMAR">VIP</abbr> </td>
+                
+                <td align="center" height="50">PM&COM<br><abbr title="DR.ARUNIMA MISHRA">AM/-MBA</abbr></td>
+                <td align="center" height="50">COA<br><abbr title="DR.AMIT KR.GOYAL">AGO</abbr></td>
+                <td align="center" height="50">QA+LR<br><abbr title="MR.SATANDERA PRATAP SINGH">SP-HS</abbr></td>
+                <td align="center" height="50">QA+LR<br><abbr title="MR.SATANDERA PRATAP SINGH">SP-HS</abbr></td>
+                <td align="center" height="50">COA LAB<br><abbr title="DR.AMIT KR.GOYAL/DR.VIDUSHI">AGO/VID</abbr></td>
+                <td align="center" height="50">COA LAB<br><abbr title="DR.AMIT KR.GOYAL/DR.VIDUSHI">AGO/VID</abbr></td>
+                </td>
+
+		<tr>
+			<td align="center" height="50">
+				<b>THU</b>
+                <td align="center" height="50">PC LAB<br><abbr title="DR.SONIA GAURI(SG)/DR.BABITA TYAGI(BT)">SG-HS/BT-HS</abbr></td>
+                <td align="center" height="50">PC LAB<br><abbr title="DR.SONIA GAURI(SG)/DR.BABITA TYAGI(BT)">SG-HS/BT-HS</abbr></td>
+                <td align="center" height="50">PSUC<br><abbr title="DR.VIPIN KUMAR">VIP</abbr> </td>
+                <td align="center" height="50">DM<br><abbr title="DR.NEELAM CHANTOLA">NC-AS</abbr></td>
+                
+                <td align="center" height="50">COA<br><abbr title="DR.AMIT KR.GOYAL">AGO</abbr></td>
+                <td align="center" height="50">FCET<br><abbr title="MS.SHWETA SINGH">SHW</abbr></td>
+                <td align="center" height="50">VAD<br><abbr title="MS.DIVYA SINGHAL">DIV</abbr></td>
+                <td align="center" height="50">VAD<br><abbr title="MS.DIVYA SINGHAL">DIV</abbr></td>
+            </td>
+
+		<tr>
+			<td align="center" height="50">
+				<b>FRI</b>
+                <td align="center" height="50">PSUC<br><abbr title="DR.VIPIN KUMAR">VIP</abbr> </td>
+                <td align="center" height="50">PM&COM<br><abbr title="DR.ARUNIMA MISHRA">AM-MBA</abbr></td>
+                <td align="center" height="50">DM<br><abbr title="DR.NEELAM CHANTOLA">NC-AS</abbr></td>
+                <td align="center" height="50">COA<br><abbr title="DR.AMIT KR.GOYAL">AGO</abbr></td>
+                <td align="center" height="50">COA LAB<br><abbr title="DR.AMIT KR.GOYAL/DR.VIDUSHI">AGO</abbr></td>
+                <td align="center" height="50">COA LAB<br><abbr title="DR.AMIT KR.GOYAL/DR.VIDUSHI">AGO</abbr></td>
+                <td align="center" height="50"><b>PSUC<br><abbr title="DR.VIPIN KUMAR">VIP</abbr><br>REMEDIAL</b></td>
+                <td align="center" height="50"><b>COA<br><abbr title="DR.AMIT KR.GOYAL">AGO</abbr><br>REMEDIAL</b></td>
+            </td>
+		<tr>
+			<td align="center" height="50">
+				<b>Saturday</b>
+                <td align="center" height="50"> <br> </td>
+                <td align="center" height="50"><br></td>
+                <td align="center" height="50"><br></td>
+                <td align="center" height="50"><br></td>
+                <td align="center" height="50"><br></td>
+                <td align="center" height="50"><br></td>
+                <td align="center" height="50"><b><br><br></b></td>
+                <td align="center" height="50"><br><br></td>
+            </td>
+		</tr>
+	</table>
+</body>
+
+</html>
